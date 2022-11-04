@@ -1,0 +1,5 @@
+sn-cidr-block = "10.0.1.0/24"
+vpc-cidr-block = "10.0.0.0/16"
+env = "development"
+az = "ap-south-1a"
+rtb = "0.0.0.0/0"
